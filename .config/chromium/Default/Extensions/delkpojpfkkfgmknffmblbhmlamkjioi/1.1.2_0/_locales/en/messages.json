@@ -1,0 +1,10 @@
+{
+   "application_description": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Convert & compress videos, record webcam videos. Get faster YouTube uploads. Free & secure."
+   },
+   "application_name": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "Clipchamp - convert, compress, record video"
+   }
+}

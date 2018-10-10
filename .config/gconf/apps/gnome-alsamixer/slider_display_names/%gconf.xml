@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="CMI8786-Digital_Input_Monitor" mtime="1534177959" type="string">
+		<stringvalue>Digital </stringvalue>
+	</entry>
+	<entry name="CMI8786-Analog_Input_Monitor" mtime="1534177959" type="string">
+		<stringvalue>Analog I</stringvalue>
+	</entry>
+	<entry name="CMI8786-Aux" mtime="1534177959" type="string">
+		<stringvalue>Aux</stringvalue>
+	</entry>
+	<entry name="CMI8786-Mic" mtime="1534177959" type="string">
+		<stringvalue>Mic</stringvalue>
+	</entry>
+	<entry name="CMI8786-Line" mtime="1534177959" type="string">
+		<stringvalue>Line</stringvalue>
+	</entry>
+	<entry name="CMI8786-Front_Mic" mtime="1534177959" type="string">
+		<stringvalue>Front Mi</stringvalue>
+	</entry>
+	<entry name="CMI8786-Headphone" mtime="1534177959" type="string">
+		<stringvalue>Headphon</stringvalue>
+	</entry>
+</gconf>

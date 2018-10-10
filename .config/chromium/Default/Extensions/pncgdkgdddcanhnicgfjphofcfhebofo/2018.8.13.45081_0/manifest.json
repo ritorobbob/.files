@@ -1,0 +1,27 @@
+{
+   "app": {
+      "icon_color": "#738CD7",
+      "launch": {
+         "web_url": "https://discordapp.com/channels/172105449686958080/172105449686958080"
+      },
+      "linked_icons": [  ]
+   },
+   "description": "",
+   "icons": {
+      "128": "icons/128.png",
+      "256": "icons/256.png",
+      "32": "icons/32.png",
+      "48": "icons/48.png",
+      "64": "icons/64.png",
+      "96": "icons/96.png"
+   },
+   "key": "HDhFinHaI5tzsiU9WJ7qwypyhmp3EKpu9fg9XOLwHgk=",
+   "name": "Discord",
+   "url_handlers": {
+      "scope": {
+         "matches": [ "https://discordapp.com/channels/172105449686958080/172105449686958080*" ],
+         "title": "Discord"
+      }
+   },
+   "version": "2018.8.13.45081"
+}

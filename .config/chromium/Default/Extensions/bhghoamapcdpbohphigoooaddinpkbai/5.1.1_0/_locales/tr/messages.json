@@ -1,0 +1,278 @@
+{
+   "about": {
+      "description": "About.",
+      "message": "Hakkında"
+   },
+   "account": {
+      "description": "Account.",
+      "message": "Hesap"
+   },
+   "accountName": {
+      "description": "Account Name.",
+      "message": "Hesap Adı"
+   },
+   "add_qr": {
+      "description": "Scan QR Code.",
+      "message": "QR kodunu tara"
+   },
+   "add_secret": {
+      "description": "Manual Entry.",
+      "message": "Manuel giriş"
+   },
+   "added": {
+      "description": "Added Account.",
+      "message": " eklendi."
+   },
+   "based_on_counter": {
+      "description": "Counter Based",
+      "message": "Sayaca Dayalı"
+   },
+   "based_on_time": {
+      "description": "Time Based",
+      "message": "Zamana dayalı"
+   },
+   "capture_failed": {
+      "description": "Capture Failed",
+      "message": "Yakalama başarısız oldu, lütfen sayfayı yeniden yükleyin ve tekrar deneyin."
+   },
+   "clock_too_far_off": {
+      "description": "Local Time is Too Far Off",
+      "message": "Dikkat! Yerel saatiniz farklı, devam etmek için lütfen düzeltin."
+   },
+   "close": {
+      "description": "Close.",
+      "message": "Kapat"
+   },
+   "confirm_delete": {
+      "description": "Remove entry confirmation",
+      "message": "Bu gizli anahtarı silmek mi istiyorsunuz? Bu işlem geri alınamaz."
+   },
+   "confirm_phrase": {
+      "description": "Confirm Passphrase.",
+      "message": "Şifreyi doğrula"
+   },
+   "copied": {
+      "description": "Copied.",
+      "message": "Kopyalandı"
+   },
+   "current_phrase": {
+      "description": "Current Passphrase.",
+      "message": "Mevcut Şifre"
+   },
+   "download_backup": {
+      "description": "Download backup file.",
+      "message": "Yedekleme Dosyasını İndir"
+   },
+   "download_enc_backup": {
+      "description": "Download Encrypted Backup",
+      "message": "Download parola korumalı yedekleme"
+   },
+   "dropbox_authorization": {
+      "description": "Dropbox authorization.",
+      "message": "Dropbox'a giriş yapın"
+   },
+   "dropbox_backup": {
+      "description": "Auto backup to Dropbox.",
+      "message": "Dropbox için otomatik yedekleme"
+   },
+   "dropbox_code": {
+      "description": "Dropbox code.",
+      "message": "Dropbox kodu"
+   },
+   "dropbox_logout": {
+      "description": "Dropbox logout.",
+      "message": "Dropbox'tan çıkış yapın"
+   },
+   "dropbox_risk": {
+      "description": "Dropbox backup risk warning.",
+      "message": "Uyarı: Dropbox'a kaydedilen yedekler şifrelenmemiştir. Bu riski göz önüne alarak kullanınız."
+   },
+   "dropbox_token": {
+      "description": "Dropbox token.",
+      "message": "Dropbox jetonu"
+   },
+   "dropbox_tooltip": {
+      "description": "Dropbox sync enabled",
+      "message": "Dropbox sync enabled"
+   },
+   "edit": {
+      "description": "Edit",
+      "message": "Edit"
+   },
+   "encrypted": {
+      "description": "Encrypted.",
+      "message": "Şifrelendi"
+   },
+   "errorqr": {
+      "description": "QR Error.",
+      "message": "QR kodu bulunamadı."
+   },
+   "errorsecret": {
+      "description": "Secret Error.",
+      "message": "Gizli Anahtar Hatası. Sadece 32'lik ('A-Z', '2-7' ve '=' ) ve 16'lık (HEX)('0-9' ve 'A-F') desteklenmektedir. Fakat Sizin Gizli Anahtarınız: "
+   },
+   "export_import": {
+      "description": "Export and Import.",
+      "message": "İçe/Dışa aktar"
+   },
+   "export_info": {
+      "description": "Export menu info text",
+      "message": "Uyarı: Hiçbir yedek şifrelenmemiş. Başka bir uygulama için bir hesap mı eklemek istiyorsunuz? Herhangi bir hesabın sağ üst kısmına gelin ve gizle düğmesine basın."
+   },
+   "extDesc": {
+      "description": "Extension Description.",
+      "message": "Kimlik Doğrulayıcı, internet tarayıcınızda iki adımlı doğrulama kodları oluşturur."
+   },
+   "extName": {
+      "description": "Extension Name.",
+      "message": "Kimlik Doğrulayıcı"
+   },
+   "extShortName": {
+      "description": "Extension Short Name.",
+      "message": "Kimlik Doğrulayıcı"
+   },
+   "feedback": {
+      "description": "Feedback.",
+      "message": "Geribildirim"
+   },
+   "import_backup": {
+      "description": "Import backup.",
+      "message": "Yedekten içeri aktar"
+   },
+   "import_backup_code": {
+      "description": "Import backup code.",
+      "message": "Metin dosyasından içeri aktar"
+   },
+   "import_backup_file": {
+      "description": "Import backup file.",
+      "message": "Dosyadan içeri aktar"
+   },
+   "import_error_password": {
+      "description": "Error password warning when import backups.",
+      "message": "Yedekleri içeri aktarmak için doğru şifreyi sağlamalısınız."
+   },
+   "issuer": {
+      "description": "Issuer.",
+      "message": "Yayınlayan Kuruluş"
+   },
+   "local_passphrase_warning": {
+      "description": "localStorage password warning.",
+      "message": "Parolanız yerel olarak depolanır, lütfen bunu güvenlik menüsünden hemen değiştirin."
+   },
+   "lock": {
+      "description": "Lock accounts",
+      "message": "Lock"
+   },
+   "manual_dropbox": {
+      "description": "Manual Dropbox sync",
+      "message": "Manual Sync"
+   },
+   "new_phrase": {
+      "description": "New Passphrase.",
+      "message": "Yeni Şifre"
+   },
+   "no": {
+      "description": "No.",
+      "message": "Hayır"
+   },
+   "ok": {
+      "description": "OK.",
+      "message": "Tamam"
+   },
+   "passphrase_info": {
+      "description": "Passphrase Info",
+      "message": "Hesap verilerin şifresini çözmek için parolanızı girin."
+   },
+   "phrase": {
+      "description": "Passphrase.",
+      "message": "Şifre"
+   },
+   "phrase_incorrect": {
+      "description": "Passphrase Incorrect.",
+      "message": "Tüm hesap bilgilerinin şifresi çözülene kadar verilerinizi dışarı aktaramaz veya yeni bir hesap ekleyemezsiniz. Lütfen devam etmeden önce doğru şifre giriniz."
+   },
+   "phrase_not_match": {
+      "description": "Passphrase Not Match.",
+      "message": "Şifreleriniz uyuşmuyor."
+   },
+   "popout": {
+      "description": "Make window turn into persistent popup",
+      "message": "Popup mode"
+   },
+   "remember_phrase": {
+      "description": "Remember Passphrase",
+      "message": "Şifreyi hatırla"
+   },
+   "remind_backup": {
+      "description": "Remind Backup",
+      "message": "Gizli Anahtarlarınızı Yedeklediniz Mi? İş işten geçene kadar beklemeyin!"
+   },
+   "remove": {
+      "description": "Remove password.",
+      "message": "Sil"
+   },
+   "resize_popup_page": {
+      "description": "Popup Page Settings",
+      "message": "Popup Page"
+   },
+   "scale": {
+      "description": "Scale",
+      "message": "Ölçek"
+   },
+   "search": {
+      "description": "Search",
+      "message": "Search"
+   },
+   "secret": {
+      "description": "Secret.",
+      "message": "Şifre"
+   },
+   "security": {
+      "description": "Security.",
+      "message": "Güvenlik"
+   },
+   "security_warning": {
+      "description": "Passphrase Warning.",
+      "message": "Gizli Anahtarlarınızı Şifrelemek için bu parola kullanılacaktır. Eğer bu şifreyi unutursanız size asla kimse yardımcı olamaz."
+   },
+   "settings": {
+      "description": "Settings.",
+      "message": "Ayarlar"
+   },
+   "show_all_entries": {
+      "description": "Show all entries.",
+      "message": "Tüm girdileri göster"
+   },
+   "source": {
+      "description": "Source Code.",
+      "message": "Kaynak Kodu"
+   },
+   "sync_clock": {
+      "description": "Sync Clock",
+      "message": "Saati google ile senkronize et"
+   },
+   "translate": {
+      "description": "Translate.",
+      "message": "Çeviri"
+   },
+   "update": {
+      "description": "Update.",
+      "message": "Güncelle"
+   },
+   "updateFailure": {
+      "description": "Update Failure.",
+      "message": "Hata."
+   },
+   "updateSuccess": {
+      "description": "Update Success.",
+      "message": "Başarılı."
+   },
+   "use_autofill": {
+      "description": "Use Autofill",
+      "message": "Use Autofill"
+   },
+   "yes": {
+      "description": "Yes.",
+      "message": "Evet"
+   }
+}

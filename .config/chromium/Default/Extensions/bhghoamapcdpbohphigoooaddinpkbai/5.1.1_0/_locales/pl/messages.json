@@ -1,0 +1,278 @@
+{
+   "about": {
+      "description": "About.",
+      "message": "O aplikacji"
+   },
+   "account": {
+      "description": "Account.",
+      "message": "Konto"
+   },
+   "accountName": {
+      "description": "Account Name.",
+      "message": "Nazwa konta"
+   },
+   "add_qr": {
+      "description": "Scan QR Code.",
+      "message": "Zeskanuj kod QR"
+   },
+   "add_secret": {
+      "description": "Manual Entry.",
+      "message": "Ręczne wprowadzanie"
+   },
+   "added": {
+      "description": "Added Account.",
+      "message": " został dodany."
+   },
+   "based_on_counter": {
+      "description": "Counter Based",
+      "message": "Licznik oparty"
+   },
+   "based_on_time": {
+      "description": "Time Based",
+      "message": "Oparte na czasie"
+   },
+   "capture_failed": {
+      "description": "Capture Failed",
+      "message": "Przechwytywania nie powiodło się, proszę odśwież stronę i spróbuj ponownie."
+   },
+   "clock_too_far_off": {
+      "description": "Local Time is Too Far Off",
+      "message": "Uwaga! Twój lokalny zegar jest zbyt niedokładny, należy go ustawić przed kontynuowaniem."
+   },
+   "close": {
+      "description": "Close.",
+      "message": "Zamknij"
+   },
+   "confirm_delete": {
+      "description": "Remove entry confirmation",
+      "message": "Czy na pewno chcesz usunąć sekretny kod? Nie można cofnąć tej akcji."
+   },
+   "confirm_phrase": {
+      "description": "Confirm Passphrase.",
+      "message": "Potwierdź hasło"
+   },
+   "copied": {
+      "description": "Copied.",
+      "message": "Skopiowane"
+   },
+   "current_phrase": {
+      "description": "Current Passphrase.",
+      "message": "Obecne hasło"
+   },
+   "download_backup": {
+      "description": "Download backup file.",
+      "message": "Pobierz plik kopii zapasowej"
+   },
+   "download_enc_backup": {
+      "description": "Download Encrypted Backup",
+      "message": "Pobrania kopii zapasowej hasłem"
+   },
+   "dropbox_authorization": {
+      "description": "Dropbox authorization.",
+      "message": "Zaloguj się do Dropbox'a"
+   },
+   "dropbox_backup": {
+      "description": "Auto backup to Dropbox.",
+      "message": "Automatyczna kopia zapasowa na Dropbox'ie"
+   },
+   "dropbox_code": {
+      "description": "Dropbox code.",
+      "message": "Kod Dropbox"
+   },
+   "dropbox_logout": {
+      "description": "Dropbox logout.",
+      "message": "Wyloguj się z Dropbox'a"
+   },
+   "dropbox_risk": {
+      "description": "Dropbox backup risk warning.",
+      "message": "Ostrzeżenie: kopie zapasowe zapisane w Dropbox'ie są nieszyfrowane. Używasz na własne ryzyko."
+   },
+   "dropbox_token": {
+      "description": "Dropbox token.",
+      "message": "Token Dropbox"
+   },
+   "dropbox_tooltip": {
+      "description": "Dropbox sync enabled",
+      "message": "Dropbox sync enabled"
+   },
+   "edit": {
+      "description": "Edit",
+      "message": "Edit"
+   },
+   "encrypted": {
+      "description": "Encrypted.",
+      "message": "Zaszyfrowane"
+   },
+   "errorqr": {
+      "description": "QR Error.",
+      "message": "Nie rozpoznano kodu QR."
+   },
+   "errorsecret": {
+      "description": "Secret Error.",
+      "message": "Błąd sekretnego kodu. Dopuszczalne znaki Base32(A-Z, 2-7 and =) oraz HEX(0-9 and A-F). Jednakże, twój sekretny kod to: "
+   },
+   "export_import": {
+      "description": "Export and Import.",
+      "message": "Eksport / Import"
+   },
+   "export_info": {
+      "description": "Export menu info text",
+      "message": "Uwaga: wszystkie kopie zapasowe są odszyfrowane. Chcesz dodać kono do innej aplikacji? Ustaw kursor nad prawym górnym rogiem dowolnego konta i wciśnij ukryty znak."
+   },
+   "extDesc": {
+      "description": "Extension Description.",
+      "message": "Authenticator generuje w przeglądarce kody 2-stopniowej weryfikacji."
+   },
+   "extName": {
+      "description": "Extension Name.",
+      "message": "Authenticator"
+   },
+   "extShortName": {
+      "description": "Extension Short Name.",
+      "message": "Authenticator"
+   },
+   "feedback": {
+      "description": "Feedback.",
+      "message": "Uwagi"
+   },
+   "import_backup": {
+      "description": "Import backup.",
+      "message": "Importuj kopię zapasową"
+   },
+   "import_backup_code": {
+      "description": "Import backup code.",
+      "message": "Import tekstowej kopii zapasowej"
+   },
+   "import_backup_file": {
+      "description": "Import backup file.",
+      "message": "Importuj plik kopii zapasowej"
+   },
+   "import_error_password": {
+      "description": "Error password warning when import backups.",
+      "message": "Należy podać prawidłowe hasło, żeby importować kopię zapasową."
+   },
+   "issuer": {
+      "description": "Issuer.",
+      "message": "Wystawca"
+   },
+   "local_passphrase_warning": {
+      "description": "localStorage password warning.",
+      "message": "Hasła są przechowywane lokalnie, należy to natychmiast zmienić w menu Zabezpieczenia."
+   },
+   "lock": {
+      "description": "Lock accounts",
+      "message": "Lock"
+   },
+   "manual_dropbox": {
+      "description": "Manual Dropbox sync",
+      "message": "Manual Sync"
+   },
+   "new_phrase": {
+      "description": "New Passphrase.",
+      "message": "Nowe hasło"
+   },
+   "no": {
+      "description": "No.",
+      "message": "Nie"
+   },
+   "ok": {
+      "description": "OK.",
+      "message": "Ok"
+   },
+   "passphrase_info": {
+      "description": "Passphrase Info",
+      "message": "Wprowadź hasło, aby odszyfrować dane konta."
+   },
+   "phrase": {
+      "description": "Passphrase.",
+      "message": "Hasło"
+   },
+   "phrase_incorrect": {
+      "description": "Passphrase Incorrect.",
+      "message": "Nie można dodać nowego konta lub eksportować danych, dopóki wszystkie konta nie zostaną odszyfrowane. Wprowadź poprawne hasło przed kontynuowaniem."
+   },
+   "phrase_not_match": {
+      "description": "Passphrase Not Match.",
+      "message": "Hasło się nie zgadza."
+   },
+   "popout": {
+      "description": "Make window turn into persistent popup",
+      "message": "Popup mode"
+   },
+   "remember_phrase": {
+      "description": "Remember Passphrase",
+      "message": "Zapamiętaj hasło"
+   },
+   "remind_backup": {
+      "description": "Remind Backup",
+      "message": "Czy masz kopie zapasową sekretnych kodów? Nie czekaj, aż będzie za późno!"
+   },
+   "remove": {
+      "description": "Remove password.",
+      "message": "Usuń"
+   },
+   "resize_popup_page": {
+      "description": "Popup Page Settings",
+      "message": "Popup Page"
+   },
+   "scale": {
+      "description": "Scale",
+      "message": "Skala"
+   },
+   "search": {
+      "description": "Search",
+      "message": "Search"
+   },
+   "secret": {
+      "description": "Secret.",
+      "message": "Sekretny kod"
+   },
+   "security": {
+      "description": "Security.",
+      "message": "Zabezpieczenia"
+   },
+   "security_warning": {
+      "description": "Passphrase Warning.",
+      "message": "To hasło będzie służyć szyfrowaniu twojego sekretnego kodu. Nikt ci nie pomoże, jeśli zapomnisz hasła."
+   },
+   "settings": {
+      "description": "Settings.",
+      "message": "Ustawienia"
+   },
+   "show_all_entries": {
+      "description": "Show all entries.",
+      "message": "Pokaż wszystkie wpisy"
+   },
+   "source": {
+      "description": "Source Code.",
+      "message": "Kod źródłowy"
+   },
+   "sync_clock": {
+      "description": "Sync Clock",
+      "message": "Synchronizuj wewnętrzny zegar z Google"
+   },
+   "translate": {
+      "description": "Translate.",
+      "message": "Przetłumacz"
+   },
+   "update": {
+      "description": "Update.",
+      "message": "Aktualizuj"
+   },
+   "updateFailure": {
+      "description": "Update Failure.",
+      "message": "Niepowodzenie."
+   },
+   "updateSuccess": {
+      "description": "Update Success.",
+      "message": "Sukces."
+   },
+   "use_autofill": {
+      "description": "Use Autofill",
+      "message": "Use Autofill"
+   },
+   "yes": {
+      "description": "Yes.",
+      "message": "Tak"
+   }
+}

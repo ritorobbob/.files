@@ -1,0 +1,16 @@
+Analytica
+Arduino
+Hallam
+changeNote
+checkKeyPress
+colour
+colours
+lossy
+normalisation
+prioritised
+randomise
+specialised
+transcoder
+unauthorised
+unfavourable
+checksum_v1 = 533348e75030f898c88edbbaa7f620c1

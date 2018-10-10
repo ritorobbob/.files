@@ -1,0 +1,278 @@
+{
+   "about": {
+      "description": "About.",
+      "message": "Tentang"
+   },
+   "account": {
+      "description": "Account.",
+      "message": "Akun"
+   },
+   "accountName": {
+      "description": "Account Name.",
+      "message": "Nama Akun"
+   },
+   "add_qr": {
+      "description": "Scan QR Code.",
+      "message": "Pindai Kode QR"
+   },
+   "add_secret": {
+      "description": "Manual Entry.",
+      "message": "Isi secara Manual"
+   },
+   "added": {
+      "description": "Added Account.",
+      "message": " has been added."
+   },
+   "based_on_counter": {
+      "description": "Counter Based",
+      "message": "Berdasarkan Penghitung"
+   },
+   "based_on_time": {
+      "description": "Time Based",
+      "message": "Berdasarkan Waktu"
+   },
+   "capture_failed": {
+      "description": "Capture Failed",
+      "message": "Gagal ditangkap, silakan muat ulang halaman dan coba lagi."
+   },
+   "clock_too_far_off": {
+      "description": "Local Time is Too Far Off",
+      "message": "Hati hati! Jam lokal anda terlalu jauh, tolong perbarui sebelum melanjutkan."
+   },
+   "close": {
+      "description": "Close.",
+      "message": "Tutup"
+   },
+   "confirm_delete": {
+      "description": "Remove entry confirmation",
+      "message": "Apakah anda yakin ingin menghapusnya? Tindakan ini tidak dapat dibatalkan."
+   },
+   "confirm_phrase": {
+      "description": "Confirm Passphrase.",
+      "message": "Konfirmasi kata sandi"
+   },
+   "copied": {
+      "description": "Copied.",
+      "message": "Tersalin"
+   },
+   "current_phrase": {
+      "description": "Current Passphrase.",
+      "message": "Kata sandi saat ini"
+   },
+   "download_backup": {
+      "description": "Download backup file.",
+      "message": "Unduh Berkas Cadangan"
+   },
+   "download_enc_backup": {
+      "description": "Download Encrypted Backup",
+      "message": "Download Password-Protected Backup"
+   },
+   "dropbox_authorization": {
+      "description": "Dropbox authorization.",
+      "message": "Masuk ke Dropbox"
+   },
+   "dropbox_backup": {
+      "description": "Auto backup to Dropbox.",
+      "message": "Cadangkan otomatis ke Dropbox"
+   },
+   "dropbox_code": {
+      "description": "Dropbox code.",
+      "message": "Kode Dropbox"
+   },
+   "dropbox_logout": {
+      "description": "Dropbox logout.",
+      "message": "Keluar dari Dropbox"
+   },
+   "dropbox_risk": {
+      "description": "Dropbox backup risk warning.",
+      "message": "Peringatan: Cadangan yang disimpan di Dropbox tidak dienkripsi. Perhatikan resikonya sebelum digunakan."
+   },
+   "dropbox_token": {
+      "description": "Dropbox token.",
+      "message": "Token Dropbox"
+   },
+   "dropbox_tooltip": {
+      "description": "Dropbox sync enabled",
+      "message": "Dropbox sync enabled"
+   },
+   "edit": {
+      "description": "Edit",
+      "message": "Edit"
+   },
+   "encrypted": {
+      "description": "Encrypted.",
+      "message": "Terenkripsi"
+   },
+   "errorqr": {
+      "description": "QR Error.",
+      "message": "Kode QR tidak diketahui."
+   },
+   "errorsecret": {
+      "description": "Secret Error.",
+      "message": "Kesalahan. Hanya karakter Base32 (A-Z, 2-7, =) dan HEX (0-9, A-F) yang didukung. Namun, kode rahasia yang anda masukkan ialah: "
+   },
+   "export_import": {
+      "description": "Export and Import.",
+      "message": "Ekspor / Impor"
+   },
+   "export_info": {
+      "description": "Export menu info text",
+      "message": "Peringatan: Semua cadangan tidak dienkripsi. Ingin menambahkan akun ke aplikasi lain? Arahkan ke bagian kanan atas dari akun apa pun dan tekan tombol tersembunyinya."
+   },
+   "extDesc": {
+      "description": "Extension Description.",
+      "message": "Authenticator menghasilkan kode verifikasi 2 langkah di browser anda."
+   },
+   "extName": {
+      "description": "Extension Name.",
+      "message": "Authenticator"
+   },
+   "extShortName": {
+      "description": "Extension Short Name.",
+      "message": "Authenticator"
+   },
+   "feedback": {
+      "description": "Feedback.",
+      "message": "Umpan Balik"
+   },
+   "import_backup": {
+      "description": "Import backup.",
+      "message": "Impor Cadangan"
+   },
+   "import_backup_code": {
+      "description": "Import backup code.",
+      "message": "Impor Text Cadangan"
+   },
+   "import_backup_file": {
+      "description": "Import backup file.",
+      "message": "Impor Berkas Cadangan"
+   },
+   "import_error_password": {
+      "description": "Error password warning when import backups.",
+      "message": "Masukkan kata sandi yang tepat untuk mengimpor cadangan."
+   },
+   "issuer": {
+      "description": "Issuer.",
+      "message": "Penerbit"
+   },
+   "local_passphrase_warning": {
+      "description": "localStorage password warning.",
+      "message": "Kata sandi anda disimpan secara lokal, tolong ubah kedalam menu keamanan segera."
+   },
+   "lock": {
+      "description": "Lock accounts",
+      "message": "Lock"
+   },
+   "manual_dropbox": {
+      "description": "Manual Dropbox sync",
+      "message": "Manual Sync"
+   },
+   "new_phrase": {
+      "description": "New Passphrase.",
+      "message": "Kata sandi baru"
+   },
+   "no": {
+      "description": "No.",
+      "message": "Tidak"
+   },
+   "ok": {
+      "description": "OK.",
+      "message": "Ok"
+   },
+   "passphrase_info": {
+      "description": "Passphrase Info",
+      "message": "Masukkan password untuk mendeskripsi data akun."
+   },
+   "phrase": {
+      "description": "Passphrase.",
+      "message": "Kata sandi"
+   },
+   "phrase_incorrect": {
+      "description": "Passphrase Incorrect.",
+      "message": "Anda tidak dapat menambahkan akun baru atau mengekspor data hingga semua akun dienskripsi. Tolong masukkan kata sandi yang tepat sebelum melanjutkan."
+   },
+   "phrase_not_match": {
+      "description": "Passphrase Not Match.",
+      "message": "Kata sandi salah."
+   },
+   "popout": {
+      "description": "Make window turn into persistent popup",
+      "message": "Popup mode"
+   },
+   "remember_phrase": {
+      "description": "Remember Passphrase",
+      "message": "Ingat kata sandi"
+   },
+   "remind_backup": {
+      "description": "Remind Backup",
+      "message": "Apakah anda ingin mencadangkan data anda? Jangan menunggu hingga terlambat!"
+   },
+   "remove": {
+      "description": "Remove password.",
+      "message": "Hapus"
+   },
+   "resize_popup_page": {
+      "description": "Popup Page Settings",
+      "message": "Popup Page"
+   },
+   "scale": {
+      "description": "Scale",
+      "message": "Skala"
+   },
+   "search": {
+      "description": "Search",
+      "message": "Search"
+   },
+   "secret": {
+      "description": "Secret.",
+      "message": "Rahasia"
+   },
+   "security": {
+      "description": "Security.",
+      "message": "Keamanan"
+   },
+   "security_warning": {
+      "description": "Passphrase Warning.",
+      "message": "Kata sandi ini akan digunakan untuk mengenkripsi kode rahasia anda. Tidak ada yang dapat membantu anda jikalau anda lupa kata sandi anda."
+   },
+   "settings": {
+      "description": "Settings.",
+      "message": "Setelan"
+   },
+   "show_all_entries": {
+      "description": "Show all entries.",
+      "message": "Tampilkan semua entri"
+   },
+   "source": {
+      "description": "Source Code.",
+      "message": "Kode sumber"
+   },
+   "sync_clock": {
+      "description": "Sync Clock",
+      "message": "Sinkronisasi riwayat dengan Google"
+   },
+   "translate": {
+      "description": "Translate.",
+      "message": "Terjemahkan"
+   },
+   "update": {
+      "description": "Update.",
+      "message": "Perbarui"
+   },
+   "updateFailure": {
+      "description": "Update Failure.",
+      "message": "Gagal."
+   },
+   "updateSuccess": {
+      "description": "Update Success.",
+      "message": "Sukses."
+   },
+   "use_autofill": {
+      "description": "Use Autofill",
+      "message": "Use Autofill"
+   },
+   "yes": {
+      "description": "Yes.",
+      "message": "Ya"
+   }
+}

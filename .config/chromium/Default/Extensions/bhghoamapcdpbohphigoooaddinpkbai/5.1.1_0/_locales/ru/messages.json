@@ -1,0 +1,278 @@
+{
+   "about": {
+      "description": "About.",
+      "message": "О расширении"
+   },
+   "account": {
+      "description": "Account.",
+      "message": "Account"
+   },
+   "accountName": {
+      "description": "Account Name.",
+      "message": "Имя учётной записи"
+   },
+   "add_qr": {
+      "description": "Scan QR Code.",
+      "message": "Отсканировать QR-код"
+   },
+   "add_secret": {
+      "description": "Manual Entry.",
+      "message": "Ручной ввод"
+   },
+   "added": {
+      "description": "Added Account.",
+      "message": " добавлено."
+   },
+   "based_on_counter": {
+      "description": "Counter Based",
+      "message": "Counter Based"
+   },
+   "based_on_time": {
+      "description": "Time Based",
+      "message": "Time Based"
+   },
+   "capture_failed": {
+      "description": "Capture Failed",
+      "message": "Фокусировка не удалась, перезагрузите страницу и повторите попытку."
+   },
+   "clock_too_far_off": {
+      "description": "Local Time is Too Far Off",
+      "message": "Внимание! Ваши местные часы слишком далеко, пожалуйста, исправить перед продолжением."
+   },
+   "close": {
+      "description": "Close.",
+      "message": "Закрыть"
+   },
+   "confirm_delete": {
+      "description": "Remove entry confirmation",
+      "message": "Вы правда хотите удалить этот секрет? Это действие безвозвратное."
+   },
+   "confirm_phrase": {
+      "description": "Confirm Passphrase.",
+      "message": "Подтвердить Пароль"
+   },
+   "copied": {
+      "description": "Copied.",
+      "message": "Скопировано"
+   },
+   "current_phrase": {
+      "description": "Current Passphrase.",
+      "message": "Текущий пароль"
+   },
+   "download_backup": {
+      "description": "Download backup file.",
+      "message": "Скачать резервную копию"
+   },
+   "download_enc_backup": {
+      "description": "Download Encrypted Backup",
+      "message": "Скачать защищенные паролем резервного копирования"
+   },
+   "dropbox_authorization": {
+      "description": "Dropbox authorization.",
+      "message": "Sign in to Dropbox"
+   },
+   "dropbox_backup": {
+      "description": "Auto backup to Dropbox.",
+      "message": "Автосохранение резервной копии в Dropbox"
+   },
+   "dropbox_code": {
+      "description": "Dropbox code.",
+      "message": "Dropbox код"
+   },
+   "dropbox_logout": {
+      "description": "Dropbox logout.",
+      "message": "Logout Dropbox"
+   },
+   "dropbox_risk": {
+      "description": "Dropbox backup risk warning.",
+      "message": "Внимание: резервные копии, сохраненные в Dropbox, не зашифрованы. Используйте на свой страх и риск."
+   },
+   "dropbox_token": {
+      "description": "Dropbox token.",
+      "message": "Dropbox маркер"
+   },
+   "dropbox_tooltip": {
+      "description": "Dropbox sync enabled",
+      "message": "Dropbox Синхронизация включена"
+   },
+   "edit": {
+      "description": "Edit",
+      "message": "Редактировать"
+   },
+   "encrypted": {
+      "description": "Encrypted.",
+      "message": "Encrypted"
+   },
+   "errorqr": {
+      "description": "QR Error.",
+      "message": "Unrecognized QR code."
+   },
+   "errorsecret": {
+      "description": "Secret Error.",
+      "message": "Секретный ошибка. Только Base32 (A-Z, 2-7 и =) и ШЕСТНАДЦАТЕРИЧНЫЙ (0-9 и A-F) поддерживаются. Однако ваш секрет: "
+   },
+   "export_import": {
+      "description": "Export and Import.",
+      "message": "Экспортировать и импортировать"
+   },
+   "export_info": {
+      "description": "Export menu info text",
+      "message": "Внимание: все резервные копии не зашифрованы. Хотите добавить учетную запись в другое приложение? Наведите курсор на верхнюю правую часть любой учетной записи и нажмите скрытую кнопку."
+   },
+   "extDesc": {
+      "description": "Extension Description.",
+      "message": "Аутентификатор генерирует коды подтверждения (Totp) 2-шаг в вашем браузере."
+   },
+   "extName": {
+      "description": "Extension Name.",
+      "message": "Авторизация"
+   },
+   "extShortName": {
+      "description": "Extension Short Name.",
+      "message": "Авторизация"
+   },
+   "feedback": {
+      "description": "Feedback.",
+      "message": "Отзыв"
+   },
+   "import_backup": {
+      "description": "Import backup.",
+      "message": "Импорт резервной копии"
+   },
+   "import_backup_code": {
+      "description": "Import backup code.",
+      "message": "Импорт текста резервной копии"
+   },
+   "import_backup_file": {
+      "description": "Import backup file.",
+      "message": "Импортировать резервный файл"
+   },
+   "import_error_password": {
+      "description": "Error password warning when import backups.",
+      "message": "Для импорта резервных копий необходимо указать правильный пароль."
+   },
+   "issuer": {
+      "description": "Issuer.",
+      "message": "Издатель"
+   },
+   "local_passphrase_warning": {
+      "description": "localStorage password warning.",
+      "message": "Ваш пароль хранится локально, пожалуйста немедленно изменить его в меню безопасность."
+   },
+   "lock": {
+      "description": "Lock accounts",
+      "message": "Заблокировать"
+   },
+   "manual_dropbox": {
+      "description": "Manual Dropbox sync",
+      "message": "Ручная синхронизация"
+   },
+   "new_phrase": {
+      "description": "New Passphrase.",
+      "message": "Новый Пароль"
+   },
+   "no": {
+      "description": "No.",
+      "message": "Нет"
+   },
+   "ok": {
+      "description": "OK.",
+      "message": "Готово"
+   },
+   "passphrase_info": {
+      "description": "Passphrase Info",
+      "message": "Введите пароль для доступа к данным учётной записи."
+   },
+   "phrase": {
+      "description": "Passphrase.",
+      "message": "Пароль"
+   },
+   "phrase_incorrect": {
+      "description": "Passphrase Incorrect.",
+      "message": "Вы не можете добавить новую учетную запись или вывести данные, пока не будет выполнен вход во все учётные записи. Пожалуйста, введите правильный пароль, прежде чем продолжить."
+   },
+   "phrase_not_match": {
+      "description": "Passphrase Not Match.",
+      "message": "Пороли не совпадают."
+   },
+   "popout": {
+      "description": "Make window turn into persistent popup",
+      "message": "Всплывающее изображение"
+   },
+   "remember_phrase": {
+      "description": "Remember Passphrase",
+      "message": "Запомнить пароль"
+   },
+   "remind_backup": {
+      "description": "Remind Backup",
+      "message": "Не ждите если у вас есть копия ваших секретов или иначе будет поздно!"
+   },
+   "remove": {
+      "description": "Remove password.",
+      "message": "Удалить"
+   },
+   "resize_popup_page": {
+      "description": "Popup Page Settings",
+      "message": "Всплывающее окно"
+   },
+   "scale": {
+      "description": "Scale",
+      "message": "Масштаб"
+   },
+   "search": {
+      "description": "Search",
+      "message": "Поиск"
+   },
+   "secret": {
+      "description": "Secret.",
+      "message": "Секрет"
+   },
+   "security": {
+      "description": "Security.",
+      "message": "Настройки Безопасности"
+   },
+   "security_warning": {
+      "description": "Passphrase Warning.",
+      "message": "Этот пароль будет использоваться для вашего секрета. Ни кто вам не поможет если вы его забудете."
+   },
+   "settings": {
+      "description": "Settings.",
+      "message": "Настройки"
+   },
+   "show_all_entries": {
+      "description": "Show all entries.",
+      "message": "Показать все записи"
+   },
+   "source": {
+      "description": "Source Code.",
+      "message": "Исходный код"
+   },
+   "sync_clock": {
+      "description": "Sync Clock",
+      "message": "Синхронизировать время с Google"
+   },
+   "translate": {
+      "description": "Translate.",
+      "message": "Перевод"
+   },
+   "update": {
+      "description": "Update.",
+      "message": "Обновить"
+   },
+   "updateFailure": {
+      "description": "Update Failure.",
+      "message": "Неудача."
+   },
+   "updateSuccess": {
+      "description": "Update Success.",
+      "message": "Успех."
+   },
+   "use_autofill": {
+      "description": "Use Autofill",
+      "message": "Использование функции автозаполнения"
+   },
+   "yes": {
+      "description": "Yes.",
+      "message": "Да"
+   }
+}

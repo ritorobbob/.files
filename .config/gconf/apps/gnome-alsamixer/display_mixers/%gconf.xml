@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="Nvidia_GPU_80_HDMI_DP" mtime="1534178004" type="bool" value="false"/>
+	<entry name="Realtek_ALC892" mtime="1534178004" type="bool" value="false"/>
+	<entry name="CMI8786" mtime="1534178004" type="bool" value="true"/>
+</gconf>

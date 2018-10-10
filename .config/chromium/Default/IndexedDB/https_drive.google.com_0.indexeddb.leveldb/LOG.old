@@ -1,0 +1,20 @@
+2018/08/17-13:47:05.737 4282 Reusing MANIFEST /home/bob/.config/chromium/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2018/08/17-13:47:05.740 4282 Recovering log #32
+2018/08/17-13:47:05.742 4282 Reusing old log /home/bob/.config/chromium/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000032.log 
+2018/08/17-13:47:06.376 4723 Compacting 2@0 + 3@1 files
+2018/08/17-13:47:06.569 4723 Generated table #35@0: 18 keys, 2320984 bytes
+2018/08/17-13:47:06.740 4723 Generated table #36@0: 1 keys, 2188274 bytes
+2018/08/17-13:47:06.747 4723 Generated table #37@0: 8 keys, 1439 bytes
+2018/08/17-13:47:06.747 4723 Compacted 2@0 + 3@1 files => 4510697 bytes
+2018/08/17-13:47:06.752 4723 compacted to: files[ 0 3 1 0 0 0 0 ]
+2018/08/17-13:47:06.752 4723 Delete type=2 #29
+2018/08/17-13:47:06.752 4723 Delete type=2 #31
+2018/08/17-13:47:06.754 4723 Delete type=2 #33
+2018/08/17-13:47:06.754 4723 Delete type=2 #28
+2018/08/17-13:47:06.754 4723 Delete type=2 #27
+2018/08/17-13:48:12.103 4723 Level-0 table #39: started
+2018/08/17-13:48:12.276 4723 Level-0 table #39: 2272569 bytes OK
+2018/08/17-13:48:12.286 4723 Delete type=0 #32
+2018/08/17-13:48:13.889 4723 Level-0 table #41: started
+2018/08/17-13:48:14.080 4723 Level-0 table #41: 2271339 bytes OK
+2018/08/17-13:48:14.092 4723 Delete type=0 #38

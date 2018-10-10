@@ -1,0 +1,25 @@
+2018/10/08-18:35:40.676 1497 Reusing MANIFEST /home/bob/.config/chromium/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/MANIFEST-000001
+2018/10/08-18:35:40.676 1497 Recovering log #143
+2018/10/08-18:35:40.742 1497 Level-0 table #146: started
+2018/10/08-18:35:40.817 1497 Level-0 table #146: 3636861 bytes OK
+2018/10/08-18:35:40.822 1497 Delete type=0 #143
+2018/10/08-18:36:41.647 2596 Level-0 table #149: started
+2018/10/08-18:36:41.731 2596 Level-0 table #149: 3636939 bytes OK
+2018/10/08-18:36:41.734 2596 Delete type=0 #147
+2018/10/08-18:36:43.607 2596 Level-0 table #151: started
+2018/10/08-18:36:43.713 2596 Level-0 table #151: 3637127 bytes OK
+2018/10/08-18:36:43.752 2596 Delete type=0 #148
+2018/10/08-18:36:43.754 2596 Compacting 4@0 + 2@1 files
+2018/10/08-18:36:43.867 2596 Generated table #152@0: 1 keys, 3636864 bytes
+2018/10/08-18:36:43.872 2596 Generated table #153@0: 4 keys, 426 bytes
+2018/10/08-18:36:43.872 2596 Compacted 4@0 + 2@1 files => 3637290 bytes
+2018/10/08-18:36:43.883 2596 compacted to: files[ 0 2 1 0 0 0 0 ]
+2018/10/08-18:36:43.883 2596 Delete type=2 #146
+2018/10/08-18:36:43.884 2596 Delete type=2 #149
+2018/10/08-18:36:43.885 2596 Delete type=2 #142
+2018/10/08-18:36:43.885 2596 Delete type=2 #141
+2018/10/08-18:36:43.889 2596 Delete type=2 #144
+2018/10/08-18:36:43.891 2596 Delete type=2 #151
+2018/10/08-18:36:46.451 2596 Level-0 table #155: started
+2018/10/08-18:36:46.515 2596 Level-0 table #155: 3637161 bytes OK
+2018/10/08-18:36:46.518 2596 Delete type=0 #150

@@ -1,0 +1,7 @@
+[Added Associations]
+application/octet-stream=atom.desktop;vim.desktop;
+text/plain=sublime_text.desktop;atom.desktop;
+application/x-compressed-tar=thunar-settings.desktop;
+text/markdown=atom.desktop;
+image/jpeg=feh.desktop;
+application/x-sharedlib=urxvt.desktop;

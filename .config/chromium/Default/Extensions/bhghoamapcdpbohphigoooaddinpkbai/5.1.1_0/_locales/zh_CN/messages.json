@@ -1,0 +1,278 @@
+{
+   "about": {
+      "description": "About.",
+      "message": "关于"
+   },
+   "account": {
+      "description": "Account.",
+      "message": "账户"
+   },
+   "accountName": {
+      "description": "Account Name.",
+      "message": "账户名称"
+   },
+   "add_qr": {
+      "description": "Scan QR Code.",
+      "message": "扫描QR码"
+   },
+   "add_secret": {
+      "description": "Manual Entry.",
+      "message": "手动输入"
+   },
+   "added": {
+      "description": "Added Account.",
+      "message": "已添加。"
+   },
+   "based_on_counter": {
+      "description": "Counter Based",
+      "message": "基于计数器"
+   },
+   "based_on_time": {
+      "description": "Time Based",
+      "message": "基于时间"
+   },
+   "capture_failed": {
+      "description": "Capture Failed",
+      "message": "捕捉失败，请重载您正在浏览的页面后重试。"
+   },
+   "clock_too_far_off": {
+      "description": "Local Time is Too Far Off",
+      "message": "注意！您的本地时钟时间差过大，请修正后再进行操作。"
+   },
+   "close": {
+      "description": "Close.",
+      "message": "关闭"
+   },
+   "confirm_delete": {
+      "description": "Remove entry confirmation",
+      "message": "您确定要删除此密钥吗？此操作无法撤销。"
+   },
+   "confirm_phrase": {
+      "description": "Confirmm Passphrase.",
+      "message": "确认密码"
+   },
+   "copied": {
+      "description": "Copied.",
+      "message": "已复制"
+   },
+   "current_phrase": {
+      "description": "Current Passphrase.",
+      "message": "当前密码"
+   },
+   "download_backup": {
+      "description": "Download backup file.",
+      "message": "下载备份文件"
+   },
+   "download_enc_backup": {
+      "description": "Download Encrypted Backup",
+      "message": "下载加密备份"
+   },
+   "dropbox_authorization": {
+      "description": "Dropbox authorization.",
+      "message": "登录Dropbox"
+   },
+   "dropbox_backup": {
+      "description": "Auto backup to Dropbox.",
+      "message": "自动备份至Dropbox"
+   },
+   "dropbox_code": {
+      "description": "Dropbox code.",
+      "message": "Dropbox授权码"
+   },
+   "dropbox_logout": {
+      "description": "Dropbox logout.",
+      "message": "注销Dropbox"
+   },
+   "dropbox_risk": {
+      "description": "Dropbox backup risk warning.",
+      "message": "警告：保存至Dropbox的备份均未加密，您需自担风险。"
+   },
+   "dropbox_token": {
+      "description": "Dropbox token.",
+      "message": "Dropbox Token"
+   },
+   "dropbox_tooltip": {
+      "description": "Dropbox sync enabled",
+      "message": "Dropbox同步已启用"
+   },
+   "edit": {
+      "description": "Edit",
+      "message": "编辑"
+   },
+   "encrypted": {
+      "description": "Encrypted.",
+      "message": "已加密"
+   },
+   "errorqr": {
+      "description": "QR Error.",
+      "message": "无法识别的QR码。"
+   },
+   "errorsecret": {
+      "description": "Secret Error.",
+      "message": "密钥错误，仅支持Base32（A-Z，2-7及=）和HEX（0-9及A-F）格式，然而您的密钥是："
+   },
+   "export_import": {
+      "description": "Export and Import.",
+      "message": "导出 / 导入"
+   },
+   "export_info": {
+      "description": "Export menu info text",
+      "message": "警告：所有备份均未加密。想要将账号添加至其他应用？请点击账号右上角隐藏的图标。"
+   },
+   "extDesc": {
+      "description": "Extension Description.",
+      "message": "身份验证器用以在浏览器中生成二步认证代码。"
+   },
+   "extName": {
+      "description": "Extension Name.",
+      "message": "身份验证器"
+   },
+   "extShortName": {
+      "description": "Extension Short Name.",
+      "message": "身份验证器"
+   },
+   "feedback": {
+      "description": "Feedback.",
+      "message": "问题反馈"
+   },
+   "import_backup": {
+      "description": "Import backup.",
+      "message": "导入备份"
+   },
+   "import_backup_code": {
+      "description": "Import backup code.",
+      "message": "导入备份文本"
+   },
+   "import_backup_file": {
+      "description": "Import backup file.",
+      "message": "导入备份文件"
+   },
+   "import_error_password": {
+      "description": "Error password warning when import backups.",
+      "message": "您必须提供正确的密码才能导入备份。"
+   },
+   "issuer": {
+      "description": "Issuer.",
+      "message": "签发方"
+   },
+   "local_passphrase_warning": {
+      "description": "localStorage password warning.",
+      "message": "您的密码保存在了本地，请立即通过安全菜单更改密码。"
+   },
+   "lock": {
+      "description": "Lock accounts",
+      "message": "锁定"
+   },
+   "manual_dropbox": {
+      "description": "Manual Dropbox sync",
+      "message": "手动同步"
+   },
+   "new_phrase": {
+      "description": "New Passphrase.",
+      "message": "新密码"
+   },
+   "no": {
+      "description": "No.",
+      "message": "否"
+   },
+   "ok": {
+      "description": "OK.",
+      "message": "确定"
+   },
+   "passphrase_info": {
+      "description": "Passphrase Info",
+      "message": "输入密码以解码账户数据。"
+   },
+   "phrase": {
+      "description": "Passphrase.",
+      "message": "密码"
+   },
+   "phrase_incorrect": {
+      "description": "Passphrase Incorrect.",
+      "message": "部分账户与密码不匹配，您无法添加新账户、导出账户数据或者更改密码。请提供正确的密码后重试。"
+   },
+   "phrase_not_match": {
+      "description": "Passphrase Not Match.",
+      "message": "两次密码不一致。"
+   },
+   "popout": {
+      "description": "Make window turn into persistent popup",
+      "message": "独立窗口模式"
+   },
+   "remember_phrase": {
+      "description": "Remember Passphrase",
+      "message": "记住密码"
+   },
+   "remind_backup": {
+      "description": "Remind Backup",
+      "message": "您是否为密钥创建了备份？不要等到为时已晚。"
+   },
+   "remove": {
+      "description": "Remove password.",
+      "message": "移除"
+   },
+   "resize_popup_page": {
+      "description": "Resize Popup Page",
+      "message": "调整弹出页面尺寸"
+   },
+   "scale": {
+      "description": "Scale",
+      "message": "比例"
+   },
+   "search": {
+      "description": "Search",
+      "message": "Search"
+   },
+   "secret": {
+      "description": "Secret.",
+      "message": "密钥"
+   },
+   "security": {
+      "description": "Security.",
+      "message": "安全"
+   },
+   "security_warning": {
+      "description": "Passphrase Warning.",
+      "message": "您的密钥将使用此密码进行加密。如果您忘记了密码没有人能够提供帮助。"
+   },
+   "settings": {
+      "description": "Settings.",
+      "message": "设置"
+   },
+   "show_all_entries": {
+      "description": "Show all entries.",
+      "message": "显示全部条目"
+   },
+   "source": {
+      "description": "Source Code.",
+      "message": "源代码"
+   },
+   "sync_clock": {
+      "description": "Sync Clock",
+      "message": "通过Google校准时间"
+   },
+   "translate": {
+      "description": "Translate.",
+      "message": "参与翻译"
+   },
+   "update": {
+      "description": "Update.",
+      "message": "更新"
+   },
+   "updateFailure": {
+      "description": "Update Failure.",
+      "message": "失败。"
+   },
+   "updateSuccess": {
+      "description": "Update Success.",
+      "message": "成功。"
+   },
+   "use_autofill": {
+      "description": "Use Autofill",
+      "message": "启用自动填充"
+   },
+   "yes": {
+      "description": "Yes.",
+      "message": "是"
+   }
+}

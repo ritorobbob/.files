@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="CMI8786-Stereo_Upmixing" mtime="1534177959" type="bool" value="true"/>
+	<entry name="CMI8786-Analog_Output" mtime="1534177959" type="bool" value="true"/>
+	<entry name="CMI8786-ADC_High-pass_Filter" mtime="1534177959" type="bool" value="true"/>
+	<entry name="CMI8786-IEC958_Validity_Check" mtime="1534177959" type="bool" value="true"/>
+	<entry name="CMI8786-IEC958_Loopback" mtime="1534177959" type="bool" value="true"/>
+	<entry name="CMI8786-IEC958" mtime="1534177959" type="bool" value="true"/>
+</gconf>

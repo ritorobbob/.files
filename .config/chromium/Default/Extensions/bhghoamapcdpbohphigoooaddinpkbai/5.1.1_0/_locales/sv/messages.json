@@ -1,0 +1,278 @@
+{
+   "about": {
+      "description": "About.",
+      "message": "Om"
+   },
+   "account": {
+      "description": "Account.",
+      "message": "Konto"
+   },
+   "accountName": {
+      "description": "Account Name.",
+      "message": "Kontonamn"
+   },
+   "add_qr": {
+      "description": "Scan QR Code.",
+      "message": "Skanna QR-kod"
+   },
+   "add_secret": {
+      "description": "Manual Entry.",
+      "message": "Manuell inmatning"
+   },
+   "added": {
+      "description": "Added Account.",
+      "message": " har lagts till."
+   },
+   "based_on_counter": {
+      "description": "Counter Based",
+      "message": "Räknarebaserade"
+   },
+   "based_on_time": {
+      "description": "Time Based",
+      "message": "Tidsbaserade"
+   },
+   "capture_failed": {
+      "description": "Capture Failed",
+      "message": "Det gick inte att infånga, ladda om sidan och försök igen."
+   },
+   "clock_too_far_off": {
+      "description": "Local Time is Too Far Off",
+      "message": "Varning! Din lokala klocka är för långt ifrån, snälla fixa den innan du fortsätter."
+   },
+   "close": {
+      "description": "Close.",
+      "message": "Stäng"
+   },
+   "confirm_delete": {
+      "description": "Remove entry confirmation",
+      "message": "Är du säker du vill radera denna hemliga nyckel? Denna åtgärd går inte att ångras."
+   },
+   "confirm_phrase": {
+      "description": "Confirm Passphrase.",
+      "message": "Bekräfta lösenord"
+   },
+   "copied": {
+      "description": "Copied.",
+      "message": "Kopierad"
+   },
+   "current_phrase": {
+      "description": "Current Passphrase.",
+      "message": "Nuvarande lösenord"
+   },
+   "download_backup": {
+      "description": "Download backup file.",
+      "message": "Ladda ner säkerhetskopieringsfilen"
+   },
+   "download_enc_backup": {
+      "description": "Download Encrypted Backup",
+      "message": "Ladda ner lösenordsskyddad säkerhetskopiering"
+   },
+   "dropbox_authorization": {
+      "description": "Dropbox authorization.",
+      "message": "Logga in på Dropbox"
+   },
+   "dropbox_backup": {
+      "description": "Auto backup to Dropbox.",
+      "message": "Automatisk säkerhetskopiering till Dropbox"
+   },
+   "dropbox_code": {
+      "description": "Dropbox code.",
+      "message": "Dropbox-kod"
+   },
+   "dropbox_logout": {
+      "description": "Dropbox logout.",
+      "message": "Logga ut från Dropbox"
+   },
+   "dropbox_risk": {
+      "description": "Dropbox backup risk warning.",
+      "message": "Varning: säkerhetskopior som sparas i Dropbox är okrypterade. Använd på egen risk."
+   },
+   "dropbox_token": {
+      "description": "Dropbox token.",
+      "message": "Dropbox-token"
+   },
+   "dropbox_tooltip": {
+      "description": "Dropbox sync enabled",
+      "message": "Dropbox sync enabled"
+   },
+   "edit": {
+      "description": "Edit",
+      "message": "Edit"
+   },
+   "encrypted": {
+      "description": "Encrypted.",
+      "message": "Krypterad"
+   },
+   "errorqr": {
+      "description": "QR Error.",
+      "message": "Okänd QR-kod."
+   },
+   "errorsecret": {
+      "description": "Secret Error.",
+      "message": "Fel på hemlig nyckel. Endast Base32(A-Z, 2-7 och =) och Hex(0-9 och A-F) stöds. Men din hemliga nyckel är: "
+   },
+   "export_import": {
+      "description": "Export and Import.",
+      "message": "Exportera / Importera"
+   },
+   "export_info": {
+      "description": "Export menu info text",
+      "message": "Varning: alla säkerhetskopieringar är okrypterade. Vill du lägga till ett konto till en annan app? Håll över den högra högra delen av något konto och tryck på den dolda knappen."
+   },
+   "extDesc": {
+      "description": "Extension Description.",
+      "message": "Authenticator genererar 2-stegs verifieringskoder i din webbläsare."
+   },
+   "extName": {
+      "description": "Extension Name.",
+      "message": "Authenticator"
+   },
+   "extShortName": {
+      "description": "Extension Short Name.",
+      "message": "Authenticator"
+   },
+   "feedback": {
+      "description": "Feedback.",
+      "message": "Feedback"
+   },
+   "import_backup": {
+      "description": "Import backup.",
+      "message": "Importera säkerhetskopia"
+   },
+   "import_backup_code": {
+      "description": "Import backup code.",
+      "message": "Importera okrypterad säkerhetskopia"
+   },
+   "import_backup_file": {
+      "description": "Import backup file.",
+      "message": "Importera säkerhetskopieringsfilen"
+   },
+   "import_error_password": {
+      "description": "Error password warning when import backups.",
+      "message": "Du måste ange rätt lösenord för att importera säkerhetskopior."
+   },
+   "issuer": {
+      "description": "Issuer.",
+      "message": "Utgivare"
+   },
+   "local_passphrase_warning": {
+      "description": "localStorage password warning.",
+      "message": "Ditt lösenord lagras lokalt, var vänlig ändra det på säkerhetsmenyn omedelbart."
+   },
+   "lock": {
+      "description": "Lock accounts",
+      "message": "Lock"
+   },
+   "manual_dropbox": {
+      "description": "Manual Dropbox sync",
+      "message": "Manual Sync"
+   },
+   "new_phrase": {
+      "description": "New Passphrase.",
+      "message": "Nytt lösenord"
+   },
+   "no": {
+      "description": "No.",
+      "message": "Nej"
+   },
+   "ok": {
+      "description": "OK.",
+      "message": "Ok"
+   },
+   "passphrase_info": {
+      "description": "Passphrase Info",
+      "message": "Ange lösenord för att dekryptera kontodata."
+   },
+   "phrase": {
+      "description": "Passphrase.",
+      "message": "Lösenord"
+   },
+   "phrase_incorrect": {
+      "description": "Passphrase Incorrect.",
+      "message": "Du kan inte lägga till ett nytt konto eller exportera data tills alla konton dekrypteras. Vänligen ange rätt lösenord innan du fortsätter."
+   },
+   "phrase_not_match": {
+      "description": "Passphrase Not Match.",
+      "message": "Lösenordet matchar inte."
+   },
+   "popout": {
+      "description": "Make window turn into persistent popup",
+      "message": "Popup mode"
+   },
+   "remember_phrase": {
+      "description": "Remember Passphrase",
+      "message": "Kom ihåg lösenord"
+   },
+   "remind_backup": {
+      "description": "Remind Backup",
+      "message": "Har du en säkerhetskopia för dina hemligheter? Vänta inte tills det är för sent!"
+   },
+   "remove": {
+      "description": "Remove password.",
+      "message": "Radera"
+   },
+   "resize_popup_page": {
+      "description": "Popup Page Settings",
+      "message": "Popup Page"
+   },
+   "scale": {
+      "description": "Scale",
+      "message": "Skala"
+   },
+   "search": {
+      "description": "Search",
+      "message": "Search"
+   },
+   "secret": {
+      "description": "Secret.",
+      "message": "Hemlig nyckel"
+   },
+   "security": {
+      "description": "Security.",
+      "message": "Säkerhet"
+   },
+   "security_warning": {
+      "description": "Passphrase Warning.",
+      "message": "Detta lösenord kommer att användas för att kryptera dina hemligheter. Ingen kan hjälpa dig om du glömmer lösenordet."
+   },
+   "settings": {
+      "description": "Settings.",
+      "message": "Inställningar"
+   },
+   "show_all_entries": {
+      "description": "Show all entries.",
+      "message": "Visa alla poster"
+   },
+   "source": {
+      "description": "Source Code.",
+      "message": "Källkod"
+   },
+   "sync_clock": {
+      "description": "Sync Clock",
+      "message": "Synka Klockan med Google"
+   },
+   "translate": {
+      "description": "Translate.",
+      "message": "Översätt"
+   },
+   "update": {
+      "description": "Update.",
+      "message": "Uppdatera"
+   },
+   "updateFailure": {
+      "description": "Update Failure.",
+      "message": "Misslyckades."
+   },
+   "updateSuccess": {
+      "description": "Update Success.",
+      "message": "Lyckades."
+   },
+   "use_autofill": {
+      "description": "Use Autofill",
+      "message": "Use Autofill"
+   },
+   "yes": {
+      "description": "Yes.",
+      "message": "Ja"
+   }
+}

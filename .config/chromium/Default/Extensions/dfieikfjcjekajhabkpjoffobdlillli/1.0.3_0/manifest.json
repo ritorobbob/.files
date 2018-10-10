@@ -1,0 +1,13 @@
+{
+   "content_scripts": [ {
+      "js": [ "process.js" ],
+      "matches": [ "*://poe.trade/*" ]
+   } ],
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAs8mNxL5kyep15B9dZ0rEyYHKgJ3IVbUkkgWC6uFjPak6oWyeVZr5aa7ZqOTbWNEBgcLFzQj8fAbD5e1cmg3SQEfvd5eQLNTS0BmiVQzruhuqV/CTs/qslUn4zD/tPViryR3NQ0uA15GmP+TmuVXngzEHvBji7ZcBZIkS/6NmARz2DFSAziYJBNgZ26C14jW0+weUUYZF4e/OsZW5hUTG1QImCWdysbJN0nQ1IHOv2ROU0He4zGhfveQY7Vy55t68DD5cK0oXCZn0IPQwdvRWYSiPQ2rcnMWmzZwrXgDG8xdenS9U69smUs4GqNm02hzWsCfOzLpl52rk12NXtZ3ZCQIDAQAB",
+   "manifest_version": 2,
+   "name": "POE Trade Copy to Path Of Building",
+   "permissions": [ "tabs", "webNavigation", "clipboardWrite", "*://poe.trade/*" ],
+   "short_name": "POETrade2POB",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.3"
+}

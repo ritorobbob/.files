@@ -1,0 +1,569 @@
+{
+	"folder_history":
+	[
+		"/home/bob"
+	],
+	"last_version": 3176,
+	"last_window_id": 2,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 989.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/bob/.config/gtk-3.0/settings.ini"
+			],
+			"find":
+			{
+				"height": 38.8833499501
+			},
+			"find_in_files":
+			{
+				"height": 100.709869385,
+				"where_history":
+				[
+					"<current file>",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"32",
+					"urx",
+					"uv"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"96"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 23.9282153539
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 43.8683948156
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 910.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/bob/.config/i3/config",
+					"settings":
+					{
+						"buffer_size": 6489,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/bob/.xinitrc",
+					"settings":
+					{
+						"buffer_size": 19,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/bob/.Xresources",
+					"settings":
+					{
+						"buffer_size": 2160,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/bob/.fonts/bar.sh",
+					"settings":
+					{
+						"buffer_size": 50,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/bob/.config/i3/i3blocks.conf",
+					"settings":
+					{
+						"buffer_size": 2824,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "set nocompatible              \" be iMproved, required\nfiletype off                  \" required\n\n\" set the runtime path to include Vundle and initialize\nset rtp+=~/.vim/bundle/Vundle.vim\ncall vundle#begin()\n\" alternatively, pass a path where Vundle should install plugins\n\"call vundle#begin('~/some/path/here')\n\n\" let Vundle manage Vundle, required\nPlugin 'VundleVim/Vundle.vim'\n\n\nPlugin 'junegunn/seoul256.vim'\n\n\n\" All of your Plugins must be added before the following line\ncall vundle#end()            \" required\nfiletype plugin indent on    \" required\n\" To ignore plugin indent changes, instead use:\n\"filetype plugin on\n\"\n\" Brief help\n\" :PluginList       - lists configured plugins\n\" :PluginInstall    - installs plugins; append `!` to update or just :PluginUpdate\n\" :PluginSearch foo - searches for foo; append `!` to refresh local cache\n\" :PluginClean      - confirms removal of unused plugins; append `!` to auto-approve removal\n\"\n\" see :h vundle for more details or wiki for FAQ\n\" Put your non-Plugin stuff after this line\n\n\ncolo seoul256\n\n\n\" General\nset number\t\nset relativenumber\nset encoding=utf-8\nset linebreak\t\nset showbreak=+++\t\nset textwidth=100\t\nset showmatch\t\nset visualbell\t\n \nset hlsearch\t\nset smartcase\t\nset ignorecase\t\nset incsearch\n \nset autoindent\t\nset shiftwidth=4\nset smartindent\tjjjkk\nset smarttab\t\nset softtabstop=4\t\n \n\" Advanced\nset ruler\t\nset wildmode=longest,list,full\nset wildmenu\n\nfiletype indent on\nfiletype plugin on\nsyntax on\n \nset undolevels=1000\t\nset backspace=indent,eol,start\t\n\nhi Normal guibg=NONE ctermbg=NONE\nhi LineNR guibg=NONE ctermbg=NONE\nhi CursorLineNr guibg=NONE ctermbg=NONE\n\n \n\n",
+					"file": "/home/bob/.vimrc",
+					"file_size": 1626,
+					"file_write_time": 131789955799768784,
+					"settings":
+					{
+						"buffer_size": 1628,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"Package Control: Install Package ",
+						"Package Control: Install Package"
+					],
+					[
+						"Pac",
+						"Package Control: Install Package"
+					],
+					[
+						"packa",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/bob/.config/sublime-text-3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+				"/home/bob/.Xdefaults",
+				"/home/bob/.config/gtk-3.0/settings.ini"
+			],
+			"find":
+			{
+				"height": 44.9101796407
+			},
+			"find_in_files":
+			{
+				"height": 126.746506986,
+				"where_history":
+				[
+					"<current file>",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"32",
+					"urx",
+					"uv"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"96"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 4,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/bob/.config/i3/config",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 6489,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 2286.42714571,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/bob/.xinitrc",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 19,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										19,
+										19
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/bob/.Xresources",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2160,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										159,
+										194
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/home/bob/.fonts/bar.sh",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 50,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										50,
+										50
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/ShellScript/Bash.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/home/bob/.config/i3/i3blocks.conf",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2824,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1990,
+										1990
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 3002.99401198,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/home/bob/.vimrc",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1628,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1122,
+										1122
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 294.411177645,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 44.9101796407
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,0,0,0,1295,25,2525,1634,2560,1700",
+			"project": "",
+			"replace":
+			{
+				"height": 85.8283433134
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

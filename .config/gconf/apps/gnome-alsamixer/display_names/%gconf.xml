@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="Nvidia_GPU_80_HDMI_DP" mtime="1534178004" type="string">
+		<stringvalue>Nvidia GPU 80 HDMI/DP</stringvalue>
+	</entry>
+	<entry name="Realtek_ALC892" mtime="1534178004" type="string">
+		<stringvalue>Realtek ALC892</stringvalue>
+	</entry>
+	<entry name="CMI8786" mtime="1534178004" type="string">
+		<stringvalue>CMI8786</stringvalue>
+	</entry>
+</gconf>

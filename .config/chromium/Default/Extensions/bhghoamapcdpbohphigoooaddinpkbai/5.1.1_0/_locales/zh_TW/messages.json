@@ -1,0 +1,278 @@
+{
+   "about": {
+      "description": "About.",
+      "message": "關於"
+   },
+   "account": {
+      "description": "Account.",
+      "message": "帳戶"
+   },
+   "accountName": {
+      "description": "Account Name.",
+      "message": "帳戶名稱"
+   },
+   "add_qr": {
+      "description": "Scan QR Code.",
+      "message": "掃描QR碼"
+   },
+   "add_secret": {
+      "description": "Manual Entry.",
+      "message": "手動輸入"
+   },
+   "added": {
+      "description": "Added Account.",
+      "message": "已新增。"
+   },
+   "based_on_counter": {
+      "description": "Counter Based",
+      "message": "基於計數器"
+   },
+   "based_on_time": {
+      "description": "Time Based",
+      "message": "基於時間"
+   },
+   "capture_failed": {
+      "description": "Capture Failed",
+      "message": "讀取失敗，請於重新載入頁面後重試。"
+   },
+   "clock_too_far_off": {
+      "description": "Local Time is Too Far Off",
+      "message": "注意！您的本地時鐘時間差異過大，請於效準時間後再進行操作。"
+   },
+   "close": {
+      "description": "Close.",
+      "message": "關閉"
+   },
+   "confirm_delete": {
+      "description": "Remove entry confirmation",
+      "message": "您確定要刪除此金鑰嗎？此操作無法復原。"
+   },
+   "confirm_phrase": {
+      "description": "Confirm Passphrase.",
+      "message": "確認密碼"
+   },
+   "copied": {
+      "description": "Copied.",
+      "message": "複製成功！"
+   },
+   "current_phrase": {
+      "description": "Current Passphrase.",
+      "message": "當前密碼"
+   },
+   "download_backup": {
+      "description": "Download backup file.",
+      "message": "下載備份檔案"
+   },
+   "download_enc_backup": {
+      "description": "Download Encrypted Backup",
+      "message": "下載密碼保護備份"
+   },
+   "dropbox_authorization": {
+      "description": "Dropbox authorization.",
+      "message": "登入 Dropbox"
+   },
+   "dropbox_backup": {
+      "description": "Auto backup to Dropbox.",
+      "message": "自動備份至Dropbox"
+   },
+   "dropbox_code": {
+      "description": "Dropbox code.",
+      "message": "Dropbox授權碼"
+   },
+   "dropbox_logout": {
+      "description": "Dropbox logout.",
+      "message": "登出 Dropbox"
+   },
+   "dropbox_risk": {
+      "description": "Dropbox backup risk warning.",
+      "message": "警告：儲存至Dropbox的備份檔案均未加密，需自行承擔風險。"
+   },
+   "dropbox_token": {
+      "description": "Dropbox token.",
+      "message": "Dropbox Token"
+   },
+   "dropbox_tooltip": {
+      "description": "Dropbox sync enabled",
+      "message": "Dropbox同步已啟用"
+   },
+   "edit": {
+      "description": "Edit",
+      "message": "編輯"
+   },
+   "encrypted": {
+      "description": "Encrypted.",
+      "message": "已加密"
+   },
+   "errorqr": {
+      "description": "QR Error.",
+      "message": "無法識別的QR碼。"
+   },
+   "errorsecret": {
+      "description": "Secret Error.",
+      "message": "金鑰錯誤，僅支援Base32（A-Z，2-7及=）和HEX（0-9及A-F）格式，然而您的金鑰是："
+   },
+   "export_import": {
+      "description": "Export and Import.",
+      "message": "匯出 / 匯入"
+   },
+   "export_info": {
+      "description": "Export menu info text",
+      "message": "警告：所有備份均未加密。想要將賬號新增至其他應用？請點選賬號右上角隱藏的圖示。"
+   },
+   "extDesc": {
+      "description": "Extension Description.",
+      "message": "Authenticator用以在瀏覽器中生成兩步驟驗證碼。"
+   },
+   "extName": {
+      "description": "Extension Name.",
+      "message": "Authenticator"
+   },
+   "extShortName": {
+      "description": "Extension Short Name.",
+      "message": "Authenticator"
+   },
+   "feedback": {
+      "description": "Feedback.",
+      "message": "問題反饋"
+   },
+   "import_backup": {
+      "description": "Import backup.",
+      "message": "匯入備份"
+   },
+   "import_backup_code": {
+      "description": "Import backup code.",
+      "message": "以文字匯入"
+   },
+   "import_backup_file": {
+      "description": "Import backup file.",
+      "message": "以檔案匯入"
+   },
+   "import_error_password": {
+      "description": "Error password warning when import backups.",
+      "message": "您必須提供正確的密碼才能匯入備份。"
+   },
+   "issuer": {
+      "description": "Issuer.",
+      "message": "簽發方"
+   },
+   "local_passphrase_warning": {
+      "description": "localStorage password warning.",
+      "message": "您的密碼儲存在了本地，請立即通過安全選單更改密碼。"
+   },
+   "lock": {
+      "description": "Lock accounts",
+      "message": "鎖定"
+   },
+   "manual_dropbox": {
+      "description": "Manual Dropbox sync",
+      "message": "手動同步"
+   },
+   "new_phrase": {
+      "description": "New Passphrase.",
+      "message": "新密碼"
+   },
+   "no": {
+      "description": "No.",
+      "message": "否"
+   },
+   "ok": {
+      "description": "OK.",
+      "message": "確定"
+   },
+   "passphrase_info": {
+      "description": "Passphrase Info",
+      "message": "輸入密碼以解碼帳戶資料。"
+   },
+   "phrase": {
+      "description": "Passphrase.",
+      "message": "密碼"
+   },
+   "phrase_incorrect": {
+      "description": "Passphrase Incorrect.",
+      "message": "部分帳戶密碼輸入錯誤，您無法新增帳戶、匯出帳戶資料或更改密碼。請在輸入正確的密碼後重試。"
+   },
+   "phrase_not_match": {
+      "description": "Passphrase Not Match.",
+      "message": "密碼錯誤。"
+   },
+   "popout": {
+      "description": "Make window turn into persistent popup",
+      "message": "彈出模式"
+   },
+   "remember_phrase": {
+      "description": "Remember Passphrase",
+      "message": "記住密碼"
+   },
+   "remind_backup": {
+      "description": "Remind Backup",
+      "message": "您是否為金鑰建立了備份？別等到為時已晚才建立！"
+   },
+   "remove": {
+      "description": "Remove password.",
+      "message": "移除"
+   },
+   "resize_popup_page": {
+      "description": "Popup Page Settings",
+      "message": "彈出頁面"
+   },
+   "scale": {
+      "description": "Scale",
+      "message": "比例"
+   },
+   "search": {
+      "description": "Search",
+      "message": "搜尋"
+   },
+   "secret": {
+      "description": "Secret.",
+      "message": "金鑰"
+   },
+   "security": {
+      "description": "Security.",
+      "message": "安全性"
+   },
+   "security_warning": {
+      "description": "Passphrase Warning.",
+      "message": "您的金鑰將使用此密碼進行加密。請妥善保管，將無法取回遺失的密碼。"
+   },
+   "settings": {
+      "description": "Settings.",
+      "message": "設定"
+   },
+   "show_all_entries": {
+      "description": "Show all entries.",
+      "message": "顯示全部條目"
+   },
+   "source": {
+      "description": "Source Code.",
+      "message": "原始碼"
+   },
+   "sync_clock": {
+      "description": "Sync Clock",
+      "message": "通過Google校準時間"
+   },
+   "translate": {
+      "description": "Translate.",
+      "message": "參與翻譯"
+   },
+   "update": {
+      "description": "Update.",
+      "message": "更新"
+   },
+   "updateFailure": {
+      "description": "Update Failure.",
+      "message": "失敗。"
+   },
+   "updateSuccess": {
+      "description": "Update Success.",
+      "message": "成功。"
+   },
+   "use_autofill": {
+      "description": "Use Autofill",
+      "message": "啟用自動填充"
+   },
+   "yes": {
+      "description": "Yes.",
+      "message": "是"
+   }
+}
